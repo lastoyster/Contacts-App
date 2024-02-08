@@ -1,8 +1,6 @@
-# contactdiaryapp1
+A Simple Contacts App  in flutter with add, edit, remove features.
 
-A new Contact Diary App project in flutter.
-
-## GIFS
+## Preview
 
 ![contactdiary](https://user-images.githubusercontent.com/102577515/169788687-e0f39469-ce33-4485-accc-6dc219fcb707.gif)
 
